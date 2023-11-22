@@ -1,0 +1,6 @@
+node_modules/
+.pos
+tmp/
+.parcel-cache
+.cache
+node_modules
